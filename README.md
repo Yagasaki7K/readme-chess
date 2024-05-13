@@ -37,4 +37,4 @@ Have you spotted a bug? Something missing? Feel free to open an [issue](https://
 
 ---
 
-Do you want to make your own? Check out [yagasaki7k/readme-chess](https://github.com/yagasaki7k/readme-chess)!
+Do you want to make your own? Check out [yagasaki7k/readme-chess](https://github.com/Yagasaki7K/readme-chess/blob/master/README-tutorial.md)!
